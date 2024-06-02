@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236350986913",
+    "project_id": "naksa2-2525",
+    "storage_bucket": "naksa2-2525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236350986913:android:0cdd398dfbbed82b446ee0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT4-nTImIwE6bKAiIubPh4H0nE1ypyQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
